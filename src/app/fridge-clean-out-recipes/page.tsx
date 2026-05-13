@@ -5,7 +5,7 @@ import { Footer } from "@/components/layout/footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Fridge Clean Out Recipes | FridgeMeal",
+  title: "Fridge Clean Out Recipes",
   description:
     "Use up whatever's in your fridge before it goes bad. Get practical meal ideas for your exact ingredients — no account needed.",
   keywords: ["fridge clean out recipes", "use up ingredients", "what to cook with what I have", "use up fridge"],

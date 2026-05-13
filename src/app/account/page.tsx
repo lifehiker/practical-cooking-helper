@@ -9,7 +9,7 @@ import { ManageBillingButton } from "./manage-billing-button";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Account | FridgeMeal",
+  title: "Account",
 };
 
 export default async function AccountPage() {

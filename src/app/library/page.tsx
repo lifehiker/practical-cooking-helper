@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import { LibraryClient } from "./library-client";
 
 export const metadata: Metadata = {
-  title: "My Library | FridgeMeal",
+  title: "My Library",
   description: "Your saved recipes and meal ideas.",
 };
 

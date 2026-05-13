@@ -5,7 +5,7 @@ import { Footer } from "@/components/layout/footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Leftover Chicken Recipes | FridgeMeal",
+  title: "Leftover Chicken Recipes",
   description:
     "What to cook with leftover chicken? Get 5 realistic meal ideas instantly — no account needed. Try FridgeMeal's ingredient-to-meal tool.",
   keywords: ["leftover chicken recipes", "what to make with leftover chicken", "cooked chicken meal ideas"],

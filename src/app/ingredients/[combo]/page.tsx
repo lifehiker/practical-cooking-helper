@@ -23,7 +23,7 @@ export async function generateMetadata({
   const seed = ingredientPageSeeds[combo as ComboKey];
   if (!seed) return {};
   return {
-    title: `${seed.title} | FridgeMeal`,
+    title: seed.title,
     description: seed.intro,
   };
 }

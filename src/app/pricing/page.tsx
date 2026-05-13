@@ -7,7 +7,7 @@ import { PricingClient } from "./pricing-client";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Pricing | FridgeMeal",
+  title: "Pricing",
   description: "Free or Pro – get unlimited meal suggestions and recipe extractions with FridgeMeal Pro.",
 };
 

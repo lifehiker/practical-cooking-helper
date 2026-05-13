@@ -6,7 +6,7 @@ import { getCurrentUser } from "@/lib/session";
 import { db } from "@/lib/db";
 import type { Metadata } from "next";
 
-export const metadata: Metadata = { title: "Admin | FridgeMeal" };
+export const metadata: Metadata = { title: "Admin" };
 
 function sevenDaysAgo() {
   const d = new Date();

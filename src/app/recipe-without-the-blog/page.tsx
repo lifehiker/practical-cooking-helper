@@ -5,7 +5,7 @@ import { Footer } from "@/components/layout/footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Recipe Without the Blog | FridgeMeal",
+  title: "Recipe Without the Blog: Just Ingredients and Steps",
   description:
     "Get a clean recipe view from any URL — just ingredients, steps, cook time, and servings. No ads, no life story, no pop-ups.",
   keywords: [

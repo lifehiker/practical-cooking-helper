@@ -5,7 +5,7 @@ import { Footer } from "@/components/layout/footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Leftover Rice Recipes | FridgeMeal",
+  title: "Leftover Rice Recipes",
   description:
     "What to make with leftover rice? Get practical meal ideas instantly. Use FridgeMeal's ingredient tool to generate ideas for your exact leftovers.",
   keywords: ["leftover rice recipes", "what to make with leftover rice", "cooked rice meal ideas", "leftover rice meal ideas"],

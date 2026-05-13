@@ -6,7 +6,7 @@ import { demoMealIdeas, demoRecipe, faqItems } from "@/lib/demo-content";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "What Can I Cook With What I Have? | FridgeMeal",
+  title: "What Can I Cook With What I Have?",
   description:
     "Turn leftovers or fridge ingredients into 5 practical meal ideas in seconds. Paste any recipe URL for a clean, ad-free view with just the recipe.",
 };
